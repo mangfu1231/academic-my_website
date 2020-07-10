@@ -48,4 +48,48 @@ subtitle = ""
   name = "Python"
 #  description = "90%"
 
+ [[feature]]
+  icon = "python-original"
+  icon_pack = "custom"
+  name = "Python"
+
+ [[feature]]
+  icon = "swift-original"
+  icon_pack = "custom"
+  name = "Swift"
+
+ [[feature]]
+  icon = "php-original"
+  icon_pack = "custom"
+  name = "Php"
+
+  [[feature]]
+  icon = "javascript-original"
+  icon_pack = "custom"
+  name = "JavaScript"
+
+ [[feature]]
+  icon = "html5-original-wordmark"
+  icon_pack = "custom"
+  name = "Html5"
+
+  [[feature]]
+  icon = "css3-original-wordmark"
+  icon_pack = "custom"
+  name = "CSS3"
+
+ [[feature]]
+  icon = "mysql-original-wordmark"
+  icon_pack = "custom"
+  name = "MySQL"
+
+ [[feature]]
+  icon = "mongodb-original-wordmark"
+  icon_pack = "custom"
+  name = "MongoDB"
+
+ [[feature]]
+  icon = "linux-original"
+  icon_pack = "custom"
+  name = "Linux/Shell"
 +++
