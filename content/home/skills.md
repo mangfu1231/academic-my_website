@@ -14,7 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
+<!-- [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "10%" -->
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -47,11 +47,6 @@ subtitle = ""
   icon_pack = "custom"
   name = "Python"
 #  description = "90%"
-
- [[feature]]
-  icon = "python-original"
-  icon_pack = "custom"
-  name = "Python"
 
  [[feature]]
   icon = "swift-original"
@@ -92,4 +87,9 @@ subtitle = ""
   icon = "linux-original"
   icon_pack = "custom"
   name = "Linux/Shell"
+
+ [[feature]]
+  icon = "NumPy_logo"
+  icon_pack = "custom"
+  name = "NumPy"
 +++
