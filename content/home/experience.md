@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Research And Teaching Assistant"
+  company = "The University of Texas at Arlington"
+  company_url = ""
+  location = "Arlington, TX"
+  date_start = "2019-08-01"
+  date_end = "Present"
+  description = """
+  * Conduct research under supervisor Dr. Ming Li.
+  * Developed rubric for five projects based on projects descriptions and requirements.
+  * Provided guidance to graduate students’ projects.
+  * Explained difficult concepts in database design and implementation clearly and concisely.
+  * Counseled students experiencing difficulties in the course.
+  * Provided lectures when professor was on traveling.
+  * Graded five projects, three examinations and student class participation.
+  """
+
+[[experience]]
   title = "Geospatial Data Engineer"
   company = "Atmos Energy"
   company_url = ""
