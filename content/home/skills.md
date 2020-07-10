@@ -64,22 +64,22 @@ subtitle = ""
   name = "JavaScript"
 
  [[feature]]
-  icon = "html5-original-wordmark"
+  icon = "html5-original"
   icon_pack = "custom"
   name = "Html5"
 
   [[feature]]
-  icon = "css3-original-wordmark"
+  icon = "css3-original"
   icon_pack = "custom"
   name = "CSS3"
 
  [[feature]]
-  icon = "mysql-original-wordmark"
+  icon = "mysql-original"
   icon_pack = "custom"
   name = "MySQL"
 
  [[feature]]
-  icon = "mongodb-original-wordmark"
+  icon = "mongodb-original"
   icon_pack = "custom"
   name = "MongoDB"
 
@@ -89,7 +89,37 @@ subtitle = ""
   name = "Linux/Shell"
 
  [[feature]]
-  icon = "NumPy_logo"
+  icon = "nodejs-original"
   icon_pack = "custom"
-  name = "NumPy"
+  name = "Node.js"
+
+ [[feature]]
+  icon = "codeigniter-plain"
+  icon_pack = "custom"
+  name = "CodeIgniter"
+
+ [[feature]]
+  icon = "bootstrap-plain"
+  icon_pack = "custom"
+  name = "Bootstrap"
+
+ [[feature]]
+  icon = "git-original"
+  icon_pack = "custom"
+  name = "Git"
+
+ [[feature]]
+  icon = "github-original"
+  icon_pack = "custom"
+  name = "GitHub"
+
+ [[feature]]
+  icon = "amazonwebservices-original"
+  icon_pack = "custom"
+  name = "AWS"
+
+ [[feature]]
+  icon = "visualstudio-plain"
+  icon_pack = "custom"
+  name = "Visual Studio"
 +++
