@@ -69,4 +69,4 @@ email: ""
 # - Visitors
 ---
 
-Chaowei Wang is a Phd Student majoring in Computer Science at the University of Texas at Arlington. Currently he is conducting research with Dr. Ming Li (http://ranger.uta.edu/~mingli/) on the subject of Quality of Experience over VoIP. Before joing UTA, he worked as a Geospatial Data Engineer and has successfully build several spatial models. His interests include data science, machine learning, spatial statistics and IoT. In his spare time, he likes to travel, play video games and decorate his house. 
+Chaowei Wang is a Phd Student majoring in Computer Science at the University of Texas at Arlington. Currently he is conducting research with Dr. Ming Li on the subject of Quality of Experience over VoIP. Before joing UTA, he worked as a Geospatial Data Engineer and has successfully build several spatial models. His interests include data science, machine learning, spatial statistics and IoT. In his spare time, he likes to travel, play video games and decorate his house. 
