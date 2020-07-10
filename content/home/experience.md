@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Arlington, TX"
   date_start = "2019-08-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   * Conduct research under supervisor Dr. Ming Li.
   * Developed rubric for five projects based on projects descriptions and requirements.
