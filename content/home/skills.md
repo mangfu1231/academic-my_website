@@ -104,6 +104,11 @@ subtitle = ""
   name = "Bootstrap"
 
  [[feature]]
+  icon = "numpy-original"
+  icon_pack = "custom"
+  name = "Numpy"
+
+ [[feature]]
   icon = "pandas_original"
   icon_pack = "custom"
   name = "Pandas"
