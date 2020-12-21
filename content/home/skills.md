@@ -64,6 +64,31 @@ subtitle = ""
   name = "JavaScript"
 
  [[feature]]
+  icon = "numpy-original"
+  icon_pack = "custom"
+  name = "Numpy"
+
+ [[feature]]
+  icon = "pandas_original"
+  icon_pack = "custom"
+  name = "Pandas"
+
+ [[feature]]
+  icon = "scikit_learn-original"
+  icon_pack = "custom"
+  name = "Scikit Learn"
+
+ [[feature]]
+  icon = "keras-original"
+  icon_pack = "custom"
+  name = "Keras"
+
+ [[feature]]
+  icon = "tensorflow-original"
+  icon_pack = "custom"
+  name = "Tensorflow"
+
+ [[feature]]
   icon = "html5-original"
   icon_pack = "custom"
   name = "Html5"
@@ -102,31 +127,6 @@ subtitle = ""
   icon = "bootstrap-plain"
   icon_pack = "custom"
   name = "Bootstrap"
-
- [[feature]]
-  icon = "numpy-original"
-  icon_pack = "custom"
-  name = "Numpy"
-
- [[feature]]
-  icon = "pandas_original"
-  icon_pack = "custom"
-  name = "Pandas"
-
- [[feature]]
-  icon = "scikit_learn-original"
-  icon_pack = "custom"
-  name = "Scikit Learn"
-
- [[feature]]
-  icon = "keras-original"
-  icon_pack = "custom"
-  name = "Keras"
-
- [[feature]]
-  icon = "tensorflow-original"
-  icon_pack = "custom"
-  name = "Tensorflow"
 
  [[feature]]
   icon = "git-original"
