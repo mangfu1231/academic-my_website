@@ -124,6 +124,11 @@ subtitle = ""
   name = "Keras"
 
  [[feature]]
+  icon = "tensorflow-original"
+  icon_pack = "custom"
+  name = "Tensorflow"
+
+ [[feature]]
   icon = "git-original"
   icon_pack = "custom"
   name = "Git"
