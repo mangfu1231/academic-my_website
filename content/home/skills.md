@@ -104,6 +104,11 @@ subtitle = ""
   name = "Bootstrap"
 
  [[feature]]
+  icon = "pandas_original"
+  icon_pack = "custom"
+  name = "Pandas"
+
+ [[feature]]
   icon = "git-original"
   icon_pack = "custom"
   name = "Git"
