@@ -114,6 +114,11 @@ subtitle = ""
   name = "Pandas"
 
  [[feature]]
+  icon = "scikit_learn-original.svg"
+  icon_pack = "custom"
+  name = "Scikit Learn"
+
+ [[feature]]
   icon = "git-original"
   icon_pack = "custom"
   name = "Git"
