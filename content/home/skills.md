@@ -147,4 +147,9 @@ subtitle = ""
   icon = "visualstudio-plain"
   icon_pack = "custom"
   name = "Visual Studio"
+
+   [[feature]]
+  icon = "hadoop"
+  icon_pack = "custom"
+  name = "Hadoop"
 +++
