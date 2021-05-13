@@ -42,11 +42,17 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+#  description = "90%"
+
  [[feature]]
   icon = "python-original"
   icon_pack = "custom"
   name = "Python"
-#  description = "90%"
+
+  [[feature]]
+  icon = "java"
+  icon_pack = "custom"
+  name = "Java"
 
  [[feature]]
   icon = "swift-original"
@@ -87,6 +93,16 @@ subtitle = ""
   icon = "tensorflow-original"
   icon_pack = "custom"
   name = "Tensorflow"
+
+  [[feature]]
+  icon = "hadoop"
+  icon_pack = "custom"
+  name = "Hadoop"
+
+  [[feature]]
+  icon = "spark"
+  icon_pack = "custom"
+  name = "Spark"
 
  [[feature]]
   icon = "html5-original"
@@ -147,14 +163,4 @@ subtitle = ""
   icon = "visualstudio-plain"
   icon_pack = "custom"
   name = "Visual Studio"
-
-  [[feature]]
-  icon = "hadoop"
-  icon_pack = "custom"
-  name = "Hadoop"
-
-  [[feature]]
-  icon = "spark"
-  icon_pack = "custom"
-  name = "Spark"
 +++
