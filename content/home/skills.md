@@ -148,8 +148,13 @@ subtitle = ""
   icon_pack = "custom"
   name = "Visual Studio"
 
-   [[feature]]
+  [[feature]]
   icon = "hadoop"
   icon_pack = "custom"
   name = "Hadoop"
+
+  [[feature]]
+  icon = "spark"
+  icon_pack = "custom"
+  name = "Spark"
 +++
