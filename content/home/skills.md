@@ -104,6 +104,11 @@ subtitle = ""
   icon_pack = "custom"
   name = "Spark"
 
+  [[feature]]
+  icon = "hive"
+  icon_pack = "custom"
+  name = "Hive"
+
  [[feature]]
   icon = "html5-original"
   icon_pack = "custom"
