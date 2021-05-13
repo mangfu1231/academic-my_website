@@ -92,7 +92,12 @@ subtitle = ""
  [[feature]]
   icon = "tensorflow-original"
   icon_pack = "custom"
-  name = "Tensorflow"
+  name = "TensorFlow"
+
+ [[feature]]
+  icon = "pytorch"
+  icon_pack = "custom"
+  name = "PyTorch"
 
   [[feature]]
   icon = "hadoop"
