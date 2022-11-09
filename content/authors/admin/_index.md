@@ -26,13 +26,12 @@ interests:
 - Machine Learning
 
 education:
-  courses:
-  - course: Ph.D. in Computer Science
+  - education: Ph.D. in Computer Science
     institution: The University of Texas at Arlington
     year: Expected 2025
-  - course: M.S. in Computer Science
+  - education: M.S. in Computer Science
     institution: The University of Texas at Arlington
-  - course: M.S. in Geospatial Information Science
+  - education: M.S. in Geospatial Information Science
     institution: The University of Texas at Dallas
 
 # Social/Academic Networking
