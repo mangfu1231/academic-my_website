@@ -21,23 +21,19 @@ organizations:
 bio: My interests include web development, data science and machine learning.
 
 interests:
-- Data Science
+- Mobile Computing
+- Sensor Systems
 - Machine Learning
-- Spatial Statistics
-- Web Development
-- IoT
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: The University of Texas at Arlington
     year: Expected 2025
   - course: M.S. in Computer Science
     institution: The University of Texas at Arlington
   - course: M.S. in Geospatial Information Science
     institution: The University of Texas at Dallas
-  - course: B.S. in Forestry
-    institution: Beijing Forestry University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Chaowei Wang is a Ph.D. student majoring in Computer Science at the University of Texas at Arlington. He is currently advised by Professor Ming Li to develop novel applications for social good.
+Chaowei Wang is a Ph.D. student majoring in Computer Science at the University of Texas at Arlington. His research is currently advised by Professor Ming Li to develop novel applications for social good.
