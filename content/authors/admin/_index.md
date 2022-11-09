@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Chaowei Wang is a Ph.D. student majoring in Computer Science at the University of Texas at Arlington. His research is currently advised by Professor Ming Li to develop novel applications for social good.
+Chaowei Wang is a Ph.D. student majoring in Computer Science at the University of Texas at Arlington. His research is currently advised by Professor Ming Li to develop novel mobile and sensing systems for social good.
